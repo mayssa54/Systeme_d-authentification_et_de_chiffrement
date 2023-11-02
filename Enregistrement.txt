@@ -1,0 +1,5 @@
+Email: user1@example.com, Pwd: P@ssw0rd
+Email: user2@example.com, Pwd: P@sswOrd23
+Email: mayssa@example.com, Pwd: P@sswOrd4Mayssa
+Email: yassine@example.com, Pwd: P@sswOrd5Yassine
+
